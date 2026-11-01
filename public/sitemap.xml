@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://madinacotton.shop/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://madinacotton.shop/shop</loc><priority>0.9</priority><changefreq>daily</changefreq></url>
+  <url><loc>https://madinacotton.shop/about</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://madinacotton.shop/contact</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://madinacotton.shop/faq</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://madinacotton.shop/how-we-make-it</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://madinacotton.shop/bed-measure</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://madinacotton.shop/custom-order</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://madinacotton.shop/wholesale</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://madinacotton.shop/shipping-policy</loc><priority>0.4</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://madinacotton.shop/return-policy</loc><priority>0.4</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://madinacotton.shop/privacy-policy</loc><priority>0.3</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://madinacotton.shop/terms</loc><priority>0.3</priority><changefreq>yearly</changefreq></url>
+</urlset>

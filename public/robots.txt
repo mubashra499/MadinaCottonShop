@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Allow: /shop
+Allow: /product/
+Allow: /about
+Allow: /contact
+Allow: /faq
+Allow: /how-we-make-it
+Allow: /bed-measure
+Allow: /custom-order
+Allow: /wholesale
+Allow: /shipping-policy
+Allow: /return-policy
+Allow: /privacy-policy
+Allow: /terms
+
+Disallow: /owner
+Disallow: /admin
+Disallow: /account
+Disallow: /auth
+Disallow: /cart
+Disallow: /checkout
+Disallow: /track-order
+Disallow: /invoice
+Disallow: /support
+Disallow: /order-confirmation
+
+# Sitemap
+Sitemap: https://madinacotton.shop/sitemap.xml
